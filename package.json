@@ -1,0 +1,30 @@
+{
+  "name": "infinite-scroll-gallery",
+  "version": "1.0.0",
+  "description": "react infinite scroll challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigvijayDheer/Infinite-Scroll-Gallery.git"
+  },
+  "author": "Digvijay Dheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigvijayDheer/Infinite-Scroll-Gallery/issues"
+  },
+  "homepage": "https://github.com/DigvijayDheer/Infinite-Scroll-Gallery#readme",
+  "dependencies": {
+    "babel-register": "^6.26.0",
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "universal-config": "^0.3.0",
+    "unsplash-js": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
